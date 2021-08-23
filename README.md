@@ -1,8 +1,6 @@
-##Olá eu sou o Leonardo Carvalho Vilela
+### Olá eu sou o Leonardo Carvalho Vilela
 
-Hoje pretendo trabalhar com Front-End/Back-End
-Estudando TypeScript/JavaScript e Node.JS
-Contate-me no E-mail: leovilela100@gmail.com
+Atualmente estou tralhando como Suporte Técnico em TI, mas meu objetivo profissional é trabalhar com desenvolvimento WEB (Full Stack) e trabalhar com as linguagens (JavaScript/TypeScript, HTML5 e CSS3) e posteriormente focar em algum framework e Biblioteca JavaScript.
 
  <div>
   <a href="https://github.com/leonardovilela100">
