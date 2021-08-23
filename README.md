@@ -4,8 +4,8 @@ Atualmente estou tralhando como Suporte Técnico em TI, mas meu objetivo profiss
 
  <div>
   <a href="https://github.com/leonardovilela100">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=leonardovilela100&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovilela100&layout=compact&langs_count=7&theme=dark"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=leonardovilela100&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovilela100&layout=compact&langs_count=7&theme=dark"/>
 </div>
 </div>
  
