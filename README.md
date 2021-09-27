@@ -1,6 +1,6 @@
 ### Olá eu sou o Leonardo Carvalho Vilela
 
-Atualmente estou tralhando como Suporte Técnico em TI, mas meu objetivo profissional é trabalhar com desenvolvimento WEB (Full Stack) e trabalhar com as linguagens (JavaScript/TypeScript, HTML5 e CSS3) e posteriormente focar em algum framework e Biblioteca JavaScript.
+Atualmente estou tralhando como Suporte Técnico em TI.
 
  <div>
   <a href="https://github.com/leonardovilela100">
