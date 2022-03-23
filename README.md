@@ -15,6 +15,7 @@ Usando as metodologias ágeis (Scrum e Kanban ) com a técnica de BDD Desenvolvi
   <img align="center" alt="Leo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Leo-CY" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreeicons.io%2Fvector-and-svg-logos-icons-06%2Fcypress-icon-icon&psig=AOvVaw0xeHnvA_S0px2gNqF2E6l0&ust=1648096832366000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNjEzKS12_YCFQAAAAAdAAAAABAO">
    <img align="right" alt="Programador" src="https://anatomia-papel-e-caneta.com/wp-content/uploads/2019/06/programador.gif">
 </div>
  
