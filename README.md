@@ -1,7 +1,7 @@
 ### Olá eu sou o Leonardo Carvalho Vilela
 
 Atualmente trabalhando como Analista de Teste/QA, e trabalhando com Testes automatizados em Cypress, testes funcionais e não funcionais focado em Front-End no modelo de negocio de E-commerce e Marketplace em geral.
-Usando as metodologias ágeis (Scrum e Kanban ) com a técnica de BDD Desenvolvimento orientado a comportamento. .
+Usando as metodologias ágeis (Scrum e Kanban ) com a técnica de BDD Desenvolvimento orientado a comportamento.
 
  <div>
   <a href="https://github.com/leonardovilela100">
