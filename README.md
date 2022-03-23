@@ -26,7 +26,7 @@ Usando as metodologias ágeis (Scrum e Kanban ) com a técnica de BDD Desenvolvi
   <a href="https://www.linkedin.com/in/leonardo-carvalho-vilela/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
  </div>
-  ![16414264681536211770](https://user-images.githubusercontent.com/61808858/159625467-e645eaff-baf9-42ef-8b23-eab60214ce6f.svg)
+
 
 
 
