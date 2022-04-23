@@ -22,6 +22,10 @@ Usando as metodologias ágeis (Scrum e Kanban ) com a técnica de BDD Desenvolvi
 
 <br><br>
 
+<img alt="Programador" src="https://anatomia-papel-e-caneta.com/wp-content/uploads/2019/06/programador.gif" height="300" width="300">
+
+<br><br>
+
 <div>
 	
   <a href = "mailto:leovilela100@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -29,5 +33,3 @@ Usando as metodologias ágeis (Scrum e Kanban ) com a técnica de BDD Desenvolvi
   <a href="https://www.linkedin.com/in/leonardo-carvalho-vilela/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  </div>
-
- <img align="left" alt="Programador" src="https://anatomia-papel-e-caneta.com/wp-content/uploads/2019/06/programador.gif" height="300" width="300">
