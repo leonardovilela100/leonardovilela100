@@ -1,8 +1,3 @@
- ### Olá eu sou o Leonardo Carvalho Vilela
-
-Atualmente trabalhando como Analista de Teste/QA, e trabalhando com Testes automatizados em Cypress, testes funcionais e não funcionais focado em Front-End  no modelo de negocio de E-commerce e Marketplace em geral.
-Usando as metodologias ágeis (Scrum e Kanban ) com a técnica de BDD Desenvolvimento orientado a comportamento.
-
  <div>
   <a href="https://github.com/leonardovilela100">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=leonardovilela100&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -20,11 +15,11 @@ Usando as metodologias ágeis (Scrum e Kanban ) com a técnica de BDD Desenvolvi
  
   </div>
 
-<br><br>
+<br>
 
 <img alt="Programador" src="https://anatomia-papel-e-caneta.com/wp-content/uploads/2019/06/programador.gif" height="300" width="300">
 
-<br><br>
+<br>
 
 <div>
 	
