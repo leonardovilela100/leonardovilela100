@@ -24,7 +24,7 @@ Usando as metodologias ágeis (Scrum e Kanban ) com a técnica de BDD Desenvolvi
 
 <img alt="Programador" src="https://anatomia-papel-e-caneta.com/wp-content/uploads/2019/06/programador.gif" height="300" width="300">
 
-<br><br>
+<br>
 
 <div>
 	
