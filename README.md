@@ -1,6 +1,6 @@
 ### Olá eu sou o Leonardo Carvalho Vilela
 
-Atualmente trabalhando como Analista de Teste/QA, e trabalhando com Testes automatizados em Cypress, testes funcionais e não funcionais focado em Front-End no modelo de negocio de E-commerce e Marketplace em geral.
+Atualmente trabalhando como Analista de Teste/QA, e trabalhando com Testes automatizados em Cypress, testes funcionais e não funcionais focado em Front-End  no modelo de negocio de E-commerce e Marketplace em geral.
 Usando as metodologias ágeis (Scrum e Kanban ) com a técnica de BDD Desenvolvimento orientado a comportamento.
 
  <div>
@@ -21,29 +21,13 @@ Usando as metodologias ágeis (Scrum e Kanban ) com a técnica de BDD Desenvolvi
  
  <br><br><br>
    <img align="left" alt="Programador" src="https://anatomia-papel-e-caneta.com/wp-content/uploads/2019/06/programador.gif" height="300" width="300">
- <br>
- <br>
- <br>
+
 </div>
- 
- ##
- <div> 
- <br>
- <br>
- <br>
- 
- <div>
-  <a align="left" href = "mailto:leovilela100@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a align="left" href="https://www.linkedin.com/in/leonardo-carvalho-vilela/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+
+<div style="float: left; width: 100px; height: 50px; clear: Left;">
+	
+  <a href = "mailto:leovilela100@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+  <a href="https://www.linkedin.com/in/leonardo-carvalho-vilela/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
-  
- </div>
-
-
-
-
-
-
-
-
-
