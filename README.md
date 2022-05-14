@@ -15,8 +15,8 @@ Usando as metodologias ágeis (Scrum e Kanban ) com a técnica de BDD Desenvolvi
 	<img align="center" alt="Leo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 	<img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 	<img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-	<img align="center" alt="Leo-PHP" height="30" width="40" src="https://user-images.githubusercontent.com/61808858/159625467-e645eaff-baf9-42ef-8b23-eab60214ce6f.svg">
-	<img align="center" alt="Leo-CY" height="30" width="40" src="https://raw.githubusercontent.com/leonardovilela100/php/c5e915f46982f4a0af48aad70389eab940b0f2c6/php.svg">
+	<img align="center" alt="Leo-PHP" height="30" width="40" src="https://github.com/leonardovilela100/ecomerce/blob/master/new-php-logo.svg">
+	
  
   </div>
 
