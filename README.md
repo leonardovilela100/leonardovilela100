@@ -11,11 +11,16 @@ Uso as metodologias ágeis (Scrum e Kanban ) com a técnica de BDD Desenvolvimen
 
  
  <div style="display: inline_block"><br>
+ 	<img align="center" alt="Leo-NODE" height="30" width="40" src="https://miro.medium.com/max/256/1*9S6w_LJVF3U_31JbQtCDLw.png">
 	<img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 	<img align="center" alt="Leo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+	<img align="center" alt="Leo-REACT" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
 	<img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 	<img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 	<img align="center" alt="Leo-PHP" height="30" width="40" src="https://github.com/leonardovilela100/ecomerce/blob/master/new-php-logo.svg">
+	<img align="center" alt="Leo-"LARAVEL" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png">
+	<img align="center" alt="Leo-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/leonardovilela100/Api-Java-SpringBoot/main/java_22523.ico">
+	<img align="center" alt="Leo-SPRING" height="30" width="40" src="https://user-images.githubusercontent.com/33158051/103925017-e7673b80-50e4-11eb-9379-ceb82e3f382c.png">
 	
  
   </div>
