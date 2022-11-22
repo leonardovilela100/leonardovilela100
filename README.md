@@ -1,9 +1,15 @@
  ### Olá eu sou o Leonardo Carvalho Vilela
 
-Atualmente trabalhando como Analista de Teste/QA, trabalho com Testes automatizados em Cypress, testes funcionais e não funcionais focado em Front-End no modelo de negocio de E-commerce e Marketplace em geral.
+🚀 Atualmente trabalho como desenvolvedor RPA e desenvolvendo testes automatizados e desenvolvendo em PHP/Magento, Java-Spring Boot, JavaScript-Vue-ReactJS
+
+🎓 Sou apaixonado por resolver problemas e por aprendizado.
+
+🎯 Sempre preocupado com a experiência do usuário e atento para ter a melhor qualidade de código.
+
+🌎 Estou aberto para enfrentar novos desafios e mudanças.
 Uso as metodologias ágeis (Scrum e Kanban ) com a técnica de BDD Desenvolvimento orientado a comportamento.
 
-Sou Formado em Análise e Desenvolvimento de Sistemas, e atualmente curso Engenharia de Software.
+🎓 Sou Formado em Análise e Desenvolvimento de Sistemas, e atualmente curso Engenharia de Software.
 
  <div>
   <a href="https://github.com/leonardovilela100">
