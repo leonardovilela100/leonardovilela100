@@ -2,7 +2,7 @@
 
 🚀 Atualmente trabalho como desenvolvedor RPA e desenvolvendo testes automatizados e desenvolvendo em PHP/Magento, Java-Spring Boot, JavaScript-Vue-ReactJS
 
-🎓 Sou apaixonado por resolver problemas e por aprendizado.
+🧑‍💻 Sou apaixonado por resolver problemas e por aprendizado.
 
 🎯 Sempre preocupado com a experiência do usuário e atento para ter a melhor qualidade de código.
 
