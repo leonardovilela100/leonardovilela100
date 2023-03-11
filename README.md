@@ -1,6 +1,6 @@
  ### ⚙️🧑‍💻🌐 Olá eu sou o Leonardo Carvalho Vilela
 
-🚀 Atualmente trabalho como desenvolvedor RPA e desenvolvendo testes automatizados e desenvolvo em (PHP/Magento), (Java/Spring Boot), (JavaScript/Node.JS-Vue-ReactJS)
+🚀 Atualmente trabalho como desenvolvedor RPA e PHP, desenvolvendo testes automatizados e desenvolvo em (PHP/Magento), (Java/Spring Boot), (JavaScript/Node.JS-Vue-ReactJS)
 
 🧑‍💻 Sou apaixonado por resolver problemas e por aprendizado.
 
