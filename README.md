@@ -1,12 +1,12 @@
- ### ⚙️🧑‍💻🌐 Olá eu sou o Leonardo Carvalho Vilela
+⚙️🧑‍💻🌐 Olá eu sou o Leonardo Carvalho Vilela
 
 🧑‍💻 Sou um desenvolvedor apaixonado pelo que eu faço, sempre querendo aprender algo novo, que me ajude a desenvolver códigos cada vez melhores.
 
 🎯 Estou aberto para enfrentar novos desafios e mudanças, utilizo as metodologias ágeis (Scrum e Kanban)..
 
-🚀 Atualmente trabalho como desenvolvedor RPA, Front-End e Back-End em PHP, Java/SpringBoot, JavaScript/ReactJS
+🚀 Atualmente trabalho como desenvolvedor Back-End em Java/SpringBoot, PHP, Node.JS  e Front-End e  em,  JavaScript/ReactJS e React-Native
 
-🎓 Sou Formado em Análise e Desenvolvimento de Sistemas, e atualmente curso Engenharia de Software.
+🎓 Sou Formado em Análise e Desenvolvimento de Sistemas, e atualmente curso Engenharia de Software
 
  <div>
   <a href="https://github.com/leonardovilela100">
