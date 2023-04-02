@@ -4,7 +4,7 @@
 
 🎯 Estou aberto para enfrentar novos desafios e mudanças, utilizo as metodologias ágeis (Scrum e Kanban)..
 
-🚀 Atualmente trabalho como desenvolvedor Back-End em Java/SpringBoot, PHP, Node.JS  e Front-End e  em,  JavaScript/ReactJS e React-Native
+🚀 Atualmente trabalho como desenvolvedor Back-End em Java + SpringBoot e Front-End React-Native
 
 🎓 Sou Formado em Análise e Desenvolvimento de Sistemas, e atualmente curso Engenharia de Software
 
