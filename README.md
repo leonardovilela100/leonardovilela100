@@ -1,6 +1,6 @@
 ⚙️🧑‍💻🌐 Olá eu sou o Leonardo Carvalho Vilela
 
-🧑‍💻 Sou um desenvolvedor apaixonado pelo que eu faço, sempre querendo aprender algo novo, que me ajude a desenvolver códigos cada vez melhores.
+🧑‍💻 Como desenvolvedor, sou apaixonado pelo meu trabalho e estou sempre em busca de novos aprendizados que possam aprimorar minha habilidade de criar códigos cada vez mais eficientes.
 
 🎯 Estou aberto para enfrentar novos desafios e mudanças, utilizo as metodologias ágeis (Scrum e Kanban)..
 
