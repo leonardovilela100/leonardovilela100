@@ -1,4 +1,4 @@
-⚙️🧑‍💻🌐 Olá eu sou o Leonardo Carvalho Vilela
+⚙️🧑‍💻🌐 Olá eu sou o Leonardo Carvalho Vilela e sou desenvolvedor a mais de 3 anos. 
 
 🧑‍💻 Como desenvolvedor, sou apaixonado pelo meu trabalho e estou sempre em busca de novos aprendizados que possam aprimorar minha habilidade de criar códigos cada vez mais eficientes.
 
