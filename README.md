@@ -10,6 +10,7 @@
 
 🎓 Sou Formado em Análise e Desenvolvimento de Sistemas, e atualmente curso Engenharia de Software
 
+<!-- 
  <div>
   <a href="https://github.com/leonardovilela100">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=leonardovilela100&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -32,7 +33,7 @@
 	
  
   </div>
-
+-->
 <br>
 
 <img alt="Programador" src="https://anatomia-papel-e-caneta.com/wp-content/uploads/2019/06/programador.gif" height="300" width="300">
