@@ -1,14 +1,26 @@
-⚙️🧑‍💻🌐 Olá eu sou o Leonardo Carvalho Vilela e sou desenvolvedor a mais de 3 anos. 
 
-🧑‍💻 Como desenvolvedor, sou apaixonado pelo meu trabalho e estou sempre em busca de novos aprendizados que possam aprimorar minha habilidade de criar códigos cada vez mais eficientes.
+Olá! Eu sou Leonardo Carvalho Vilela 👋
+Sou um desenvolvedor com mais de 3 anos de experiência e um apaixonado pelas possibilidades infinitas que o mundo da programação oferece
 
-🎯 Estou aberto para enfrentar novos desafios e mudanças, utilizo as metodologias ágeis (Scrum e Kanban)..
+🛠️ Tecnologias e Ferramentas
+Back-End: Java com Spring Boot, PHP com Phalcon
+Front-End: React-Native, AngularJs e Angular 2+
+Linguagens de Programação: JavaScript, Java, PHP
+Frameworks: Spring Boot, Laravel, Phalcon, Angular, React
+Bancos de Dados: MySQL, PostgreSQL
+Web: HTML5, CSS3
+Metodologias: Scrum, Kanban
 
-🚀 Atualmente trabalho como desenvolvedor utilizando essas tecnologias. <br>
-                    Back-End: Java + SpringBoot e Front-End: React-Native <br> 
-                    Back-End: PHP + Phalcon e Front-End: AngularJs e Angular 2+ <br> <br>
+🎓 Educação
+Formado em Análise e Desenvolvimento de Sistemas
+Cursando Engenharia de Software
 
-🎓 Sou Formado em Análise e Desenvolvimento de Sistemas, e atualmente curso Engenharia de Software
+🌱 Desenvolvimento Pessoal e Profissional
+Estou sempre aberto para enfrentar novos desafios e estou em constante aprendizado. Utilizo metodologias ágeis como Scrum e Kanban para me adaptar de forma eficaz às mudanças e entregar produtos de qualidade.
+
+🌐 Projetos e Contribuições
+Confira alguns dos meus projetos no GitHub.
+https://github.com/leonardovilela100/
 
 <!-- 
  <div>
