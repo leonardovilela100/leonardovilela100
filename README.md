@@ -1,5 +1,5 @@
 
-Olá! Eu sou Leonardo Carvalho Vilela 👋 </br>
+👋 Olá! Eu sou Leonardo Carvalho Vilela  </br>
 
 Sou um desenvolvedor com mais de 3 anos de experiência e um apaixonado pelas possibilidades infinitas que o mundo da programação oferece
 
