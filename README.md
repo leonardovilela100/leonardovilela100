@@ -13,7 +13,7 @@ Web: HTML5, CSS3
 Metodologias: Scrum, Kanban
 
 🎓 Educação
-Formado em Análise e Desenvolvimento de Sistemas
+Formado em Análise e Desenvolvimento de Sistemas,
 Cursando Engenharia de Software
 
 🌱 Desenvolvimento Pessoal e Profissional
