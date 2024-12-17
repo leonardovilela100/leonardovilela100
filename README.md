@@ -19,10 +19,6 @@ Cursando Engenharia de Software
 🌱 Desenvolvimento Pessoal e Profissional
 Estou sempre aberto para enfrentar novos desafios e estou em constante aprendizado. Utilizo metodologias ágeis como Scrum e Kanban para me adaptar de forma eficaz às mudanças e entregar produtos de qualidade.
 
-🌐 Projetos e Contribuições
-Confira alguns dos meus projetos no GitHub.
-https://github.com/leonardovilela100/
-
 <!-- 
  <div>
   <a href="https://github.com/leonardovilela100">
