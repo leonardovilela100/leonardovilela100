@@ -1,7 +1,7 @@
 
 👋 Olá! Eu sou Leonardo Carvalho Vilela  </br>
 
-Sou um desenvolvedor apaixonado pelas possibilidades infinitas que o mundo da programação oferece
+Sou um desenvolvedor apaixonado pelas possibilidades infinitas que o mundo da programação oferece.
 
 🛠️ Tecnologias e Ferramentas
 Back-End: Java com Spring Boot, PHP com Phalcon
